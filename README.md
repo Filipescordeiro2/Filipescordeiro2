@@ -7,8 +7,8 @@ entreguem valor ao usuário final.
 ### 🛠️ Tecnologias e Ferramentas:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot)
-![SQL Databases](https://img.shields.io/badge/SQL-Databases-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![SQL Databases](https://img.shields.io/badge/SQL-Databases-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ### 🚀 Projetos Destacados:
 - [Microsserviço de Envio de E-mails](https://github.com/Filipescordeiro2/email_send) - Microsserviço para envio de e-mails com JavaMail.
