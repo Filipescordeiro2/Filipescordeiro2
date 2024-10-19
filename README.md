@@ -11,8 +11,7 @@ entreguem valor ao usuário final.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🚀 Projetos Destacados:
-- [Microsserviço de Envio de E-mails]([https://github.com/seuusuario/microsservico-email](https://github.com/Filipescordeiro2/email_send)) - Microsserviço para envio de e-mails assíncronos usando RabbitMQ.
-
+- [Microsserviço de Envio de E-mails](https://github.com/Filipescordeiro2/email_send) - Microsserviço para envio de e-mails assíncronos usando RabbitMQ.
 ### 📊 Minhas Estatísticas:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=seuusuario&show_icons=true&theme=radical)
 ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=seuusuario&layout=compact&theme=radical)
