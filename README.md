@@ -11,9 +11,12 @@ entreguem valor ao usuário final.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL Databases](https://img.shields.io/badge/SQL-Databases-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### 🚀 Projetos Destacados:
+### 🚀 Projetos Java
 - [Microsserviço de Envio de E-mails](https://github.com/Filipescordeiro2/email_send) - Microsserviço para envio de e-mails com JavaMail.
 - [Microsserviço de Cadastro de Cliente](https://github.com/Filipescordeiro2/cadastro_cliente) - Microsserviço para cadastro de Cliente.
+
+### 🚀 Projetos Python
+- [Analise de Dados](https://github.com/Filipescordeiro2/AnaliseDeDados) - Projeto de Analise de Dados (Comparação de repoduços entre as principais plataformas)
 
 ### 📊 Minhas Estatísticas:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Filipescordeiro2&show_icons=true&theme=radical)
