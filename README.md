@@ -1,6 +1,8 @@
 # Olá, eu sou o Filipe! 👋
 
-Sou desenvolvedor backend apaixonado por **Java** e **Spring Boot**. Atualmente, estou trabalhando em projetos de microsserviços e APIs REST.
+Como profissional apaixonado por tecnologia, eu tenho o desenvolvimento de sistemas como minhas grandes paixões. Com vasta experiência em projetos de desenvolvimento de software Java,
+Spring Boot e API REST, eu sou capaz de lidar com desafios complexos e criar soluções inovadoras que
+entreguem valor ao usuário final.
 
 ### 🛠️ Tecnologias e Ferramentas:
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
