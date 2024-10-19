@@ -16,7 +16,6 @@ entreguem valor ao usuário final.
 
 ### 📊 Minhas Estatísticas:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Filipescordeiro2&show_icons=true&theme=radical)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Filipescordeiro2&layout=compact&theme=radical)
 
 ### 📫 Conecte-se Comigo:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/filipesantanacordeiro/)
