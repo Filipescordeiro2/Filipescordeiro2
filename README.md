@@ -11,9 +11,8 @@ entreguem valor ao usuário final.
 ![SQL Databases](https://img.shields.io/badge/SQL-Databases-003B57?style=for-the-badge&logo=database&logoColor=white)
 
 ### 🚀 Projetos Java
-- [Microsserviço de Envio de E-mails](https://github.com/Filipescordeiro2/email_send) - Microsserviço para envio de e-mails com JavaMail.
-- [Microsserviço de Cadastro de Cliente](https://github.com/Filipescordeiro2/cadastro_cliente) - Microsserviço para cadastro de Cliente.
-
+- [Projetos](https://github.com/Filipescordeiro2?tab=repositories) - Microsserviços em Java
+  
 ### 📊 Minhas Estatísticas:
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=Filipescordeiro2&show_icons=true&theme=radical)
 
