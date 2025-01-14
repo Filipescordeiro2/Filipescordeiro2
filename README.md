@@ -10,7 +10,7 @@ entreguem valor ao usuário final.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL Databases](https://img.shields.io/badge/SQL-Databases-003B57?style=for-the-badge&logo=database&logoColor=white)
 
-### 🚀 Projetos Java
+### 🚀 Projetos
 - [Projetos](https://github.com/Filipescordeiro2?tab=repositories) - Microsserviços em Java
   
 ### 📊 Minhas Estatísticas:
