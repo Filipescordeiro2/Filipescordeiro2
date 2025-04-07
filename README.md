@@ -10,6 +10,7 @@ entreguem valor ao usuário final.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![SQL Databases](https://img.shields.io/badge/SQL-Databases-003B57?style=for-the-badge&logo=database&logoColor=white)
 ![Kafka](https://img.shields.io/badge/Kafka-231F20?style=for-the-badge&logo=apache-kafka&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 
 ### 🚀 Projetos
